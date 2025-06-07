@@ -1,0 +1,12 @@
+.container__header {
+    // min-height: 45px;
+    // max-height: 65px;
+    height: 45px;
+    position: fixed;
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+
+    background-color: #ee7575;
+}
